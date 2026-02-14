@@ -1,0 +1,37 @@
+.kurka button {
+    padding: 20px 30px 20px 30px;
+    background-color: pink;
+    border-width: 2px;
+    border-radius:20px;
+    border-color:magenta;
+}
+.kurka {
+    position: absolute;
+    bottom: 325px;
+    left:715px;
+}
+
+#kurkaNo {
+    margin-left: 20px;
+}
+
+body {
+    background-image: url('valentine-background.png');
+    background-size: cover;
+}
+
+#question {
+    position:absolute;
+    top: 275px;
+    left:580px;
+    z-index: 99999;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#stitch {
+    width:280px;
+    height:250px;
+    position:absolute;
+    left:670px;
+    z-index: 999999;
+}

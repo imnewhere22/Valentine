@@ -1,0 +1,25 @@
+body {
+    background-image: url('valentine-background.png');
+    background-size: cover;
+}
+
+#scream {
+    position:absolute;
+    left:360px;
+    top:200px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#rizzler {
+    position:absolute;
+    bottom:400px;
+    left:540px;
+}
+
+#rizz {
+    width:300px;
+    height:200px;
+    position:absolute;
+    bottom:150px;
+    left:630px;
+}
