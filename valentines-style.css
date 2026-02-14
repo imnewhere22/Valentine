@@ -31,7 +31,7 @@ body {
 #stitch {
     width: min(300px, 70vw);
     height:auto;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 
 .container {
